@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128" alt="影盒 Logo" /></p>
+
 # 影盒
 
 **你的好片，自成一库。**
